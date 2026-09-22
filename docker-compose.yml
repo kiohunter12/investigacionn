@@ -1,0 +1,9 @@
+services:
+  workspace:
+    build: .
+    container_name: ppi_workspace
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/workspace
+    working_dir: /workspace

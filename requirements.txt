@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyterlab
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+torch-geometric
+transformers
