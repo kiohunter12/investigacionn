@@ -1,0 +1,6 @@
+dataset,seed,best_epoch,val_ndcg,principal_n_personas,principal_n_objetivos,principal_recall@10,principal_hr@10,principal_ndcg@10,secundario_n_personas,secundario_n_objetivos,secundario_recall@10,secundario_hr@10,secundario_ndcg@10
+olist,42,1,0.0003754808701598893,876,927,0.0,0.0,0.0,1147,1237,0.0,0.0,0.0
+olist,123,5,0.00013166488075658697,876,927,0.0,0.0,0.0,1147,1237,0.0,0.0,0.0
+olist,2024,2,0.00017818866398298702,876,927,0.0,0.0,0.0,1147,1237,0.0,0.0,0.0
+olist,2025,11,0.0008718395815170009,876,927,0.0,0.0,0.0,1147,1237,0.0,0.0,0.0
+olist,2026,2,0.0003105555249416061,876,927,0.0,0.0,0.0,1147,1237,0.0,0.0,0.0
