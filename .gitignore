@@ -1,0 +1,17 @@
+# Proyecto fuera de alcance del short paper (Olist)
+data/raw/amazon/
+data/processed/amazon_*
+
+# Basura de sistema / papelera
+.Trash-0/
+.Trash-*/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entorno / credenciales (por si acaso)
+.env
+*.env
+kaggle.json
